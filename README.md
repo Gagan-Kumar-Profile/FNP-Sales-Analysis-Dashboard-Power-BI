@@ -19,7 +19,7 @@ The data used for this dashboard came from three CSV files:
 ---
 
 ## 🖥 Dashboard Preview
-![Dashboard Screenshot](FNP Sales Screenshot.png)  
+![Dashboard Screenshot](https://github.com/Gagan-Kumar-Profile/FNP-Sales-Analysis-Dashboard-Power-BI/blob/main/FNP%20Sales%20Screenshot.png) 
 
 ---
 
